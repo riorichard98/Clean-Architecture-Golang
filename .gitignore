@@ -1,0 +1,8 @@
+live-reload
+logs/
+go.sum
+modd.conf
+# resources/*.yaml
+.DS_Store
+.env
+.vscode
